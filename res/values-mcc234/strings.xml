@@ -19,5 +19,4 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Data synchronization settings screen, checkbox setting option name. Controls whether Gmail should be synced.  Must use "Google Mail" to refer to this app. -->
-    <string name="sync_gmail">Google Mail</string>
 </resources>
