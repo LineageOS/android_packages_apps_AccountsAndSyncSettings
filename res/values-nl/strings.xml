@@ -19,8 +19,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="3706018265751197270">"Account- en synchronisatie-instellingen"</string>
-    <string name="sync_settings" msgid="8707056705985552604">"Account- en synchronisatie-instellingen"</string>
+    <string name="app_label" msgid="3706018265751197270">"Accounts- en synchronisatie-instellingen"</string>
+    <string name="sync_settings" msgid="8707056705985552604">"Accounts- en synchronisatie-instellingen"</string>
     <string name="sync_too_many_deletes" msgid="1621369057980827097">"Verwijderingslimiet overschreden"</string>
     <string name="background_data" msgid="1103557117473896066">"Achtergrondgegevens"</string>
     <string name="background_data_summary" msgid="9048259510387973822">"Onbeperkt gegevens synchroniseren, verzenden en ontvangen"</string>
